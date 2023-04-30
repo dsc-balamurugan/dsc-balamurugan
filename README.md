@@ -1,8 +1,8 @@
 ### Hi there <img src="https://github.com/Bala-Murugan473/Bala-Murugan473/blob/main/wave.gif" width ="30px">
 
-### I am a <i>BalaMurugan</i>, but people call me <i>Bala</i> !
+### I am <i>BalaMurugan</i>, but people call me <i>Bala</i> !
 
-### I am programmer & learner
+### I am a programmer & learner
 
 ### I am currently working as <i> Software Automation Tester</i> at TCS and I'm learning Data Sciene and Machine Learning
 

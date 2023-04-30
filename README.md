@@ -2,9 +2,9 @@
 
 ### I am <i>BalaMurugan</i>, but people call me <i>Bala</i> !
 
-I am programmer & learner
+### I am programmer & learner
 
-I am currently working on <i> Software Automation Testing</i> and I'm learning Data Sciene and Machine Learning. 
+### I am currently working on <i> Software Automation Testing</i> and I'm learning Data Sciene and Machine Learning. 
 
 ### Languages and Tools:
 
